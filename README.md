@@ -1,11 +1,7 @@
 # 🌌 AI-Enabled Detection of Exoplanets
 
-[![📄 Theory & Methodology](https://img.shields.io/badge/📄-Theory_&_Methodology-blue?style=for-the-badge)(docs/AI_Exoplanet_Detection_Theory_and_Methodology.pdf)
-
-[![📘 Full Technical Report](https://img.shields.io/badge/📘-Full_Technical_Report-green?style=for-the-badge)].(docs\AI Enabled Detection of Exoplanets By Light Curve AI.pdf)
-
-
-# 🌌 AI-Enabled Detection of Exoplanets from NASA TESS Light Curves
+[![Theory & Methodology](https://img.shields.io/badge/Theory%20%26%20Methodology-blue?style=for-the-badge)](docs/AI_Exoplanet_Detection_Theory_and_Methodology.pdf)
+[![Full Technical Report](https://img.shields.io/badge/Full%20Technical%20Report-green?style=for-the-badge)](docs/Full_Technical_Report.pdf)
 
 An end-to-end AI-assisted pipeline for detecting exoplanet transit candidates from NASA TESS light curve data using **Box Least Squares (BLS)**, astrophysical parameter estimation, machine learning classification, and an interactive Streamlit dashboard.
 
