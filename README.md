@@ -1,9 +1,8 @@
 # 🌌 AI-Enabled Detection of Exoplanets
 
-[![📄 Theory & Methodology](https://img.shields.io/badge/📄-Theory_&_Methodology-blue?style=for-the-badge)](docs/AI_Exoplanet_Detection_Theory_and_Methodology.pdf)
+[![📄 Theory & Methodology](https://img.shields.io/badge/📄-Theory_&_Methodology-blue?style=for-the-badge)(docs/AI_Exoplanet_Detection_Theory_and_Methodology.pdf)
 
-[![📘 Full Technical Report](https://img.shields.io/badge/📘-Full_Technical_Report-green?style=for-the-badge)]
-.(docs\AI Enabled Detection of Exoplanets By Light Curve AI.pdf)
+[![📘 Full Technical Report](https://img.shields.io/badge/📘-Full_Technical_Report-green?style=for-the-badge)].(docs\AI Enabled Detection of Exoplanets By Light Curve AI.pdf)
 
 
 # 🌌 AI-Enabled Detection of Exoplanets from NASA TESS Light Curves
